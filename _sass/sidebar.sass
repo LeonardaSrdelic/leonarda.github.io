@@ -1,54 +1,43 @@
-// Definicija osnovnih boja
-$dark: #333;  // Tamna boja za tekst i ikone
-$light: #f9f9f9;  // Svijetla boja za pozadine
-$accent: #00a0dc;  // Akcentna boja za linkove i hover efekte
+// Dodavanje stilova za Subscribe Formu
+.subscribe-form {
+  margin-top: 20px;
+  text-align: center;
 
-// Osnovni stilovi sidebar-a
-aside {
-  background: $light;
-  padding: 20px;
-  color: $dark;
-
-  // Stilovi za navigaciju unutar sidebar-a
-  nav {
-    margin-bottom: 20px;
-
-    a {
-      color: $dark;
-      text-decoration: none;
-      transition: color 0.3s;
-
-      &:hover {
-        color: $accent;
-      }
-    }
+  h3 {
+    color: $dark;
+    font-size: 18px;
+    margin-bottom: 10px;
   }
 
-  // Stilovi za ikone unutar sidebar-a
-  .icon {
-    color: darken($dark, 10%);
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
   }
 
-  // Stilovi za opisne elemente unutar sidebar-a
-  .description {
-    font-size: 14px;
-    margin-top: 10px;
+  input[type="email"] {
+    padding: 8px 10px;
+    font-size: 16px;
+    border: 1px solid darken($light, 10%);
+    border-radius: 5px;
+    margin-right: 10px;
+    outline: none;
+    background: lighten($light, 5%);
+    color: $dark;
   }
 
-  // Stilovi za dodatne linkove ili socijalne ikone
-  .social-links {
-    a {
-      display: inline-block;
-      margin-right: 10px;
+  button {
+    background-color: $accent;
+    color: $light;
+    padding: 8px 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 
-      i {
-        font-size: 20px;  // Veličina ikona
-        color: $dark;  // Boja ikona
-
-        &:hover {
-          color: $accent;  // Boja ikona pri prelasku miša
-        }
-      }
+    &:hover {
+      background-color: darken($accent, 10%);
     }
   }
 }
