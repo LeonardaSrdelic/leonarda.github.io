@@ -1,7 +1,6 @@
- ---
+---
 layout: page
 title: "Publications by themes"
----
 ---
 ### **Climate Policy & Economic Systems**
 
