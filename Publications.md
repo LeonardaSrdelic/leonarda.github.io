@@ -6,7 +6,10 @@ title: "Publications by themes"
 ### **Climate Policy & Economic Systems**
 
 
-[<img src="assets/eu ets.png" alt="Leonarda Srdelic" width="300" />](https://hrcak.srce.hr/file/465846)
+<a href="https://hrcak.srce.hr/file/465846">
+  <img src="assets/eu_ets.png" alt="Leonarda Srdelic" width="300" />
+</a>
+
 
 
 
