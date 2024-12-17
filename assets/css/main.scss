@@ -75,6 +75,7 @@ nav {
 
     .dropdown-toggle {
       cursor: pointer;
+      font-weight: bold;
     }
 
     /* Skriven sadržaj dropdowna */
@@ -108,3 +109,16 @@ nav {
     }
   }
 }
+
+header, footer {
+  padding: 10px 20px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+}
+
+main {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
