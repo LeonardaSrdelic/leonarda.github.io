@@ -5,26 +5,26 @@ title: "Homepage"
 
 ## **Featured Research**
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1 1 1000px; text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1 1 500px; text-align: center;">
     <a href="https://hrcak.srce.hr/file/465846" target="_blank">
-      <img src="assets/eu_ets.png" alt="Research 1" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="assets/eu_ets.png" alt="Research 1" style="width: 100%; max-width: 400px; height: auto; border: 1px solid #ddd; border-radius: 8px;">
     </a>
-    <p style="margin-top: 8px;">**European Trading System**</p>
+    <p style="margin-top: 8px; font-weight: bold;">European Trading System</p>
   </div>
 
   <div style="flex: 1 1 300px; text-align: center;">
     <a href="https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433" target="_blank">
-      <img src="assets/tranz.png" alt="Research 2" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="assets/tranz.png" alt="Research 2" style="width: 100%; max-width: 300px; height: auto; border: 1px solid #ddd; border-radius: 8px;">
     </a>
-    <p style="margin-top: 8px;">**Transition Risks of Climate Change**</p>
+    <p style="margin-top: 8px; font-weight: bold;">Transition Risks of Climate Change</p>
   </div>
 
   <div style="flex: 1 1 300px; text-align: center;">
     <a href="https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434" target="_blank">
-      <img src="assets/makro.png" alt="Research 3" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="assets/makro.png" alt="Research 3" style="width: 100%; max-width: 300px; height: auto; border: 1px solid #ddd; border-radius: 8px;">
     </a>
-    <p style="margin-top: 8px;">**Macroeconomic Climate Analysis**</p>
+    <p style="margin-top: 8px; font-weight: bold;">Macroeconomic Climate Analysis</p>
   </div>
 </div>
 
