@@ -26,10 +26,6 @@ title: "Publications by themes"
   </div>
 </div>
 
----
-
-### **Open Economies: Thirlwall's Law**
-
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
   <div>
     <a href="https://pdf.sciencedirectassets.com/..." target="_blank">
