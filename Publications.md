@@ -6,19 +6,14 @@ title: "Publications by themes"
 ### **Climate Policy & Economic Systems**
 
 
-[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846)   
-[![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433) [![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
-
-
-
 
 1. Srdelic, L., Švaljek, S. (2024). Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.  
    *Fiscus 13, ISSN 1849-9309.*  
-   [Read here](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf).
+   [Read here](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf). [![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) 
 
 2. Srdelic, L. (2024). Environmental taxes in Croatia and the European Union.  
    *Institute of public finance notes, 17 (139), 1 – 18.*  
-   [Read here](https://doi.org/10.3326/in.2024.139).
+   [Read here](https://doi.org/10.3326/in.2024.139). 
 
 3. Srdelic, L., Barišić, R. (2024). Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.  
    *Ekonomska misao i praksa* (accepted, not published yet).  
@@ -26,11 +21,12 @@ title: "Publications by themes"
 
 4. Srdelic, L. (2024). Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area.  
    *Oeconomica Jadertina 1/2024.*  
-   [Read here](https://doi.org/10.15291/oec.4433).
+   [Read here](https://doi.org/10.15291/oec.4433). [![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)
 
 5. Srdelic, L. (2024). Overview of Physical Climate Risks and Their Impact on the Economy and Financial System of Croatia.   
 *Oeconomica Jadertina 1/2024*.  
-[Read here](https://doi.org/10.15291/oec.4434)
+[Read here](https://doi.org/10.15291/oec.4434)  [![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
+
 
 ---
 
