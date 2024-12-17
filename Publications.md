@@ -15,7 +15,7 @@ title: "Publications"
 
 2. Srdelic, L. (2024). Environmental taxes in Croatia and the European Union.  
    *Institute of public finance notes, 17 (139), 1 – 18.*  
-   [Read here](https://doi.org/10.3326/ip.2024.139).
+   [Read here](https://doi.org/10.3326/in.2024.139).
 
 3. Srdelic, L., Barišić, R. (2024). Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.  
    *Ekonomska misao i praksa* (accepted, not published yet).  
