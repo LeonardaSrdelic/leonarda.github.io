@@ -41,4 +41,4 @@ title: "Publications by themes"
 
 ### **Other Publications**
 
-- **Other Publications**: [Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
