@@ -39,7 +39,7 @@ title: "Publications"
 
 2. Srdelic, L., Davila-Fernandez, M. (2022). Demographic transition and economic growth in 6-EU member states.   
 *Munich Personal RePEC Archive Working Papers*. (Accepted in *Cambridge Journal of Economics*, not yet published).  
-[Read here](https://doi.org/10.1016/j.strueco.2023.10.018)
+[Read here](https://www.bing.com/ck/a?!&&p=650ffa3de7486b7967624380ea0a94f5e2f9f734afc9da28655ba8824b3d175bJmltdHM9MTczNDM5MzYwMA&ptn=3&ver=2&hsh=4&fclid=1cae414f-f3fe-667d-3923-5403f2276761&psq=demographic+transition+and+economic+growth+srdeli%c4%87&u=a1aHR0cHM6Ly93d3cuaG5iLmhyL2RvY3VtZW50cy8yMDE4Mi80MTM1NDg3L3NyZGVsaWMtZGF2aWxhLWZlcm5hbmRlei5wZGYvYTI5ODE4ODItMjBhMi0xMmE5LWYzMTYtMzMzYTBkMjlkMmFmP3ZlcnNpb249MS4wJnQ9MTY1NTk4Mzk5NDY3MyZkb3dubG9hZD10cnVl&ntb=1)
 
 ---
 
