@@ -18,7 +18,7 @@ title: "Publications by themes"
       <img src="assets/tranz.png" alt="Research 2" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
     </a>
     <p style="margin-top: 8px; font-weight: bold;">Transition Risks of Climate Change</p>
-  </div>
+  </div>  
 
   <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
     <a href="https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434" target="_blank">
