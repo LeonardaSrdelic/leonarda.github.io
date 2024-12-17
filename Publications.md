@@ -33,7 +33,7 @@ title: "Publications"
 
 ### **Open economies: Growth-cycle dynamics & Uneven development**
 
-1. Srdelic, L., Davila-Fernandez, M. (2023). International trade and economic growth in Croatia.  
+1. Srdelic, L., Davila-Fernandez, M. (2024). International trade and economic growth in Croatia.  
    *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258.*  
    [Read here](https://doi.org/10.1016/j.strueco.2023.10.018).
 
