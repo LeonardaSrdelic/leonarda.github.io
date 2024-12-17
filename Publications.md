@@ -27,7 +27,7 @@ title: "Publications by themes"
 
 ---
 
-### **Open economies: Thirlwall's law & balance-of-payments constraint growth model**
+### **Open economies: Thirlwall's law**
 
 1. Srdelic, L., Davila-Fernandez, M. (2024). International trade and economic growth in Croatia.  
    *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258.*  
