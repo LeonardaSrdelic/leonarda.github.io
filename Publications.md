@@ -4,7 +4,7 @@ title: "Publications by themes"
 ---
 ### **Climate Policy & Economic Systems**
 
-[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) [![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)[![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
+[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846)[![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)[![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
 
 ---
 
