@@ -6,7 +6,7 @@ title: "Homepage"
 ## **Featured Research**
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1 1 500px; text-align: center;">
+  <div style="flex: 1 1 1000px; text-align: center;">
     <a href="https://hrcak.srce.hr/file/465846" target="_blank">
       <img src="assets/eu_ets.png" alt="Research 1" style="max-width: 200%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
     </a>
