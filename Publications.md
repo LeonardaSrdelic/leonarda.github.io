@@ -7,9 +7,9 @@ title: "Publications by themes"
 
 
 
-1. Srdelic, L., Švaljek, S. (2024). Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.  
+1. Srdelic, L., Švaljek, S. (2024). Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.    [![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) 
    *Fiscus 13, ISSN 1849-9309.*  
-  [![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) 
+
 
 2. Srdelic, L. (2024). Environmental taxes in Croatia and the European Union.  
    *Institute of public finance notes, 17 (139), 1 – 18.*  
