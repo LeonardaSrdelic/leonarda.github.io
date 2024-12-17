@@ -55,25 +55,23 @@
 
   {{ content }}
 
-  <!-- Footer -->
-  {% if site.external %}
   <footer>
-  <div class="social-links">
-    {% for link in site.external %}
-      <a href="{{ link.url }}" target="_blank" aria-label="{{ link.title }}">
-        <i class="{{ link.icon }}"></i>
-      </a>
-    {% endfor %}
-  </div>
+    <div class="social-links">
+      {% for link in site.external %}
+        <a href="{{ link.url }}" target="_blank" aria-label="{{ link.title }}">
+          <i class="{{ link.icon }}"></i>
+        </a>
+      {% endfor %}
+    </div>
 
-  <!-- Subscribe Form -->
-  <div class="subscribe-form">
-    <h3>Subscribe to our newsletter</h3>
-    <form action="https://formspree.io/f/manykggk" method="POST">
-      <input type="email" name="email" placeholder="Your email address" required>
-      <button type="submit">Subscribe</button>
-    </form>
-  </div>
-</footer>
+    <div class="subscribe-form">
+      <h3>Subscribe to our newsletter</h3>
+      <form action="https://formspree.io/f/manykggk" method="POST">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </footer>
+</body>
 
 </html>
