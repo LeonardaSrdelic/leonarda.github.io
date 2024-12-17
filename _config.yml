@@ -21,7 +21,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Homepage", icon: home}
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "Curriculum Vitae"}
-  - {file: "Publications.md", title: "Publications"}
+  - title: "Publications"
+    submenu:               # Ovo je podizbornik
+      - {file: "Publications_by_theme.md", title: "By Theme"}
+      - {file: "Publications_chrono.md", title: "Chronologically"}
 
 
 
