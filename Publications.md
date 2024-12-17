@@ -6,9 +6,8 @@ title: "Publications by themes"
 ### **Climate Policy & Economic Systems**
 
 
-<a href="https://hrcak.srce.hr/file/465846">
-  <img src="assets/eu ets.png" alt="Leonarda Srdelic" width="300" />
-</a>
+[<img src="assets/eu ets.png" alt="Leonarda Srdelic" width="300" />](https://hrcak.srce.hr/file/465846)
+
 
 
 1. Srdelic, L., Švaljek, S. (2024). Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.  
