@@ -27,7 +27,6 @@ title: "Homepage"
     <p style="margin-top: 8px; font-weight: bold;">Macroeconomic Climate Analysis</p>
   </div>
 </div>
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
     <a href="https://pdf.sciencedirectassets.com/..." target="_blank">
@@ -35,7 +34,6 @@ title: "Homepage"
     </a>
     <p style="margin-top: 8px; font-weight: bold;">International Trade Growth</p>
   </div>
-
   <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
     <a href="https://www.hnb.hr/documents/20182/4135487/srdelic-davila-fernandez.pdf" target="_blank">
       <img src="assets/demo.png" alt="Research 5" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
