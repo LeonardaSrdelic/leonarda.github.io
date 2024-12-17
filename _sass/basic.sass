@@ -1,17 +1,9 @@
-// Boje
-$background-light: #f9f9f9
-$text-color: #333333
-$link-color: #4a90e2
-$highlight-color: #e0f0ff
-$border-color: #dddddd
-
-// Tijelo stranice
 body
-  background: $background-light
-  color: $text-color
-  font-family: $font-family, sans-serif
-  font-size: $font-size
+  background: $light
+  color: $dark
+  font-family: $font-family
   font-weight: $font-weight
+  font-size: $font-size
   line-height: $line-height
   margin: 0
   min-height: 100vh
@@ -19,59 +11,86 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
-// Naslovi
-h1, h2, h3, h4, h5, h6
-  color: darken($link-color, 10%)
-  font-weight: bold
-  margin: 1em 0
-
-// Paragrafi
-p
-  text-align: justify
-  margin-bottom: 1.2em
-
-// Linkovi
-a
-  color: $link-color
-  text-decoration: none
-  transition: color 0.3s ease
-
-  &:hover
-    color: darken($link-color, 15%)
-    text-decoration: underline
-
-// Blok citati
-blockquote
-  background: $highlight-color
-  border-left: 4px solid $link-color
-  padding: 1em 1.5em
-  margin: 1.5em 0
-  color: darken($text-color, 10%)
-  font-style: italic
-
-// Razni elementi
-hr
-  border: 1px solid $border-color
-  margin: 2em 0
-
-img
-  max-width: 100%
-  border-radius: 5px
-  margin: 1em 0
-
-table
-  width: 100%
-  border-spacing: 0
-  border: 1px solid $border-color
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1)
-
-th, td
-  padding: 0.5em 1em
-  border: 1px solid $border-color
-  text-align: left
-
-// Tamni način rada (opcionalno)
 @media (prefers-color-scheme: dark)
   body
-    background: #eeeeee
-    color: $text-color
+    background: $dark
+    color: $light
+
+h1, h2, h3, h4, h5, h6
+  font-weight: $heading-weight
+
+b, strong, th
+  font-weight: $font-weight + 200
+
+p
+  text-align: justify
+
+a
+  color: $link-color
+  text-decoration: inherit
+  &:hover
+    text-decoration: underline
+
+header a, footer a, aside a
+  color: inherit
+
+header time
+  color: reduce(100)
+
+hr
+  border: 1px solid reduce(30)
+  margin: 2em 0
+
+article:not(:last-of-type)
+  border-bottom: 1px solid reduce(14)
+
+blockquote
+  background: reduce(6)
+  border-left: 3px solid reduce(90)
+  padding: 1px 1.5em
+  opacity: .75
+
+blockquote, figure
+  margin: 1em 0
+
+img
+  margin: .5em 0
+
+li
+  margin: .25em 0
+
+img
+  border-radius: 2px
+  max-width: 100%
+  height: auto
+
+table
+  display: inline-block
+  max-width: 100%
+  overflow-y: scroll
+  border-spacing: 1px
+  border-radius: 2px
+  box-shadow: 0 0 0 1px reduce(12) inset
+
+th, td
+  padding: .5em 1em
+  box-shadow: 0 0 0 1px reduce(12)
+
+tr:hover, tr:nth-child(odd) td
+  background: reduce(4)
+
+pre
+  background: reduce(12)
+  border-radius: 2px
+  font-size: .8em
+  margin: 1.5em 0
+  padding: .8em 1.2em
+  overflow-x: auto
+
+\:not(pre) > code
+  font-size: .9em
+  background: reduce(15)
+  opacity: .7
+  border-radius: 2px
+  margin: 0 .1em
+  padding: .2em .4em
