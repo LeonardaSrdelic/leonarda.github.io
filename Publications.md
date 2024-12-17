@@ -2,7 +2,7 @@
 layout: page
 title: "Publications by themes"
 ---
-
+---
 ### **Climate Policy & Economic Systems**
 
 1. Srdelic, L., Švaljek, S. (2024). Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.  
