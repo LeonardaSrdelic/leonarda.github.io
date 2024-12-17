@@ -3,7 +3,7 @@ title: "Personal Webpage"
 author: "Leonarda Srdelić"
 permalink: /:title/
 lang: "en"
-icon: ⚛️
+icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
