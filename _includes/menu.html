@@ -1,15 +1,47 @@
 <nav>
-  <ul>
-    <li><a href="/">Homepage</a></li>
-    <li><a href="/blog/">Blog</a></li>
-    <li><a href="/CV/">Curriculum Vitae</a></li>
-    <li class="dropdown">
-      <a href="#">Publications</a>
-      <ul class="dropdown-content">
-        <li><a href="/Publications_by_theme/">By Theme</a></li>
-        <li><a href="/Publications_chrono/">Chronologically</a></li>
-      </ul>
-    </li>
+  <ul class="menu">
+    {%- for item in include.menu -%}
+      {%- assign node = site.pages | where: "name", item.file | first -%}
+      {%- assign url = item.url | default: node.url -%}
+      {%- assign title = item.title | default: node.title -%}
+
+      {%- if item.submenu -%}
+        <!-- Dropdown izbornik -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle">
+            {%- if item.icon -%}
+              <svg aria-label="{{ title }}" class="icon">
+                <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use>
+              </svg>
+            {%- endif -%}
+            {{ title }}
+          </a>
+          <ul class="dropdown-content">
+            {%- for subitem in item.submenu -%}
+              {%- assign subnode = site.pages | where: "name", subitem.file | first -%}
+              {%- assign suburl = subitem.url | default: subnode.url -%}
+              {%- assign subtitle = subitem.title | default: subnode.title -%}
+              <li>
+                <a href="{{ suburl | relative_url }}" {% if suburl == page.url %}class="selected"{% endif %}>
+                  {{ subtitle }}
+                </a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+      {%- else -%}
+        <!-- Standardni link -->
+        <li>
+          <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
+            {%- if item.icon -%}
+              <svg aria-label="{{ title }}" class="icon">
+                <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use>
+              </svg>
+            {%- endif -%}
+            {{ title }}
+          </a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
   </ul>
 </nav>
-
