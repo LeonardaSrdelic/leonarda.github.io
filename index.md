@@ -30,13 +30,16 @@ title: "Homepage"
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
     <a href="https://pdf.sciencedirectassets.com/..." target="_blank">
-      <img src="assets/sced.png" alt="Research 4" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="assets/sced.png" alt="Research 4" 
+           style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;">
     </a>
     <p style="margin-top: 8px; font-weight: bold;">International Trade Growth</p>
   </div>
+
   <div style="flex: 1 1 300px; text-align: center; max-width: 300px;">
     <a href="https://www.hnb.hr/documents/20182/4135487/srdelic-davila-fernandez.pdf" target="_blank">
-      <img src="assets/demo.png" alt="Research 5" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="assets/demo.png" alt="Research 5" 
+           style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;">
     </a>
     <p style="margin-top: 8px; font-weight: bold;">Croatian National Bank Study</p>
   </div>
