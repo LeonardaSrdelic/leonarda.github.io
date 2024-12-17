@@ -6,7 +6,7 @@ title: "Publications by themes"
 ### **Climate Policy & Economic Systems**
 
 
-[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846)
+[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) [![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)
 
 
 
@@ -22,8 +22,6 @@ title: "Publications by themes"
 3. Srdelic, L., Barišić, R. (2024). Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.  
    *Ekonomska misao i praksa* (accepted, not published yet).  
    [Read here](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf).
-
-[![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)
 
 4. Srdelic, L. (2024). Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area.  
    *Oeconomica Jadertina 1/2024.*  
