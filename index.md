@@ -28,8 +28,6 @@ title: "Homepage"
   </div>
 </div>
 
-## **Open Economies: Thirlwall's Law**
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
   <div style="flex: 1 1 400px; text-align: center; max-width: 400px;">
     <a href="https://pdf.sciencedirectassets.com/..." target="_blank">
