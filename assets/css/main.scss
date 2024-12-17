@@ -21,3 +21,23 @@
   display: inline-block;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%; // Osigurava da elementi popune cijeli zaslon
+  box-sizing: border-box; // Uključuje padding i border unutar definirane širine i visine
+}
+
+// Postavite glavne kontejnere na maksimalnu širinu
+.container, .wrapper, .main-content {
+  width: 100%;
+  max-width: 100%; // Uklanja bilo kakva ograničenja maksimalne širine
+  margin: 0 auto; // Centriranje, ako je potrebno
+  padding: 0 15px; // Prilagođava unutarnji prostor
+}
+
+// Ako postoji dodatno ograničavanje širine
+.page, .post, .entry-content {
+  width: 100%; // Osigurava da ovi elementi također koriste punu širinu
+}
