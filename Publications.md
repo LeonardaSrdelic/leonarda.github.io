@@ -6,7 +6,7 @@ title: "Publications by themes"
 ### **Climate Policy & Economic Systems**
 
 
-[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) [![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433)
+[![1](assets/eu_ets.png)](https://hrcak.srce.hr/file/465846) [![2](assets/tranz.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433) [![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
 
 
 
@@ -26,8 +26,6 @@ title: "Publications by themes"
 4. Srdelic, L. (2024). Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area.  
    *Oeconomica Jadertina 1/2024.*  
    [Read here](https://doi.org/10.15291/oec.4433).
-
-[![3](assets/makro.png)](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434)
 
 5. Srdelic, L. (2024). Overview of Physical Climate Risks and Their Impact on the Economy and Financial System of Croatia.   
 *Oeconomica Jadertina 1/2024*.  
