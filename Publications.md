@@ -7,7 +7,7 @@ title: "Publications by themes"
 
 
 <a href="https://hrcak.srce.hr/file/465846">
-  <img src="assets/eu_ets.png" alt="Leonarda Srdelic" width="300" />
+  <img src="assets/eu_ets.png" alt="Leonarda Srdelic" width="1000" />
 </a>
 
 
