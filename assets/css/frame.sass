@@ -1,32 +1,27 @@
 ---
 ---
-  // Importiranje drugih Sass datoteka
+
 @import index, font, basic, layout, classes
 
-// Globalne postavke za html
 html
-  background: $light // Bijela pozadina
-  padding: 0 // Uklanjamo padding
+  background: lighten($dark, 70%)
+  padding: 0 calc(38% - 22em)
 
-// Stilizacija za tijelo stranice
 body
-  box-shadow: 0 0 .3em lighten($dark, 65%) // Dodavanje sjenke na tijelo stranice
+  box-shadow: 0 0 .3em lighten($dark, 65%)
 
-// Header i Footer stilovi
 body > header, body > footer
-  background: lighten($dark, 5%) // Lagana nijansa tamne boje
+  background: lighten($dark, 5%)
   color: $light
 
-// Media query za većće ekrane
 @media (min-width: 32em)
   body > header, body > article, body > footer
     padding: 1.75em calc(22% - 6em)
 
-// Dark mode prilagodbe
 @media (prefers-color-scheme: dark)
   html
-    background: darken($dark, 4%) // Tamnija pozadina za dark mode
+    background: darken($dark, 4%)
   body > header, body > footer
-    background: $dark // Tamna pozadina za header i footer
+    background: $dark
   body, body > header, body > footer
-    box-shadow: 0 0 0 1px lighten($dark, 8%) // Prilagodba sjenke
+    box-shadow: 0 0 0 1px lighten($dark, 8%)
