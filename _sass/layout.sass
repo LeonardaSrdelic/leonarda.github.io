@@ -1,6 +1,7 @@
 body
   display: flex
   flex-direction: column
+  height: 100vh  // Omogućuje da stranica zauzima cijelu visinu ekrana
 
 article
   flex-grow: 1
@@ -10,8 +11,6 @@ body > header, body > footer
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
-
-body > header, body > article, body > footer
   padding: 1.5em
 
 article header
@@ -26,3 +25,5 @@ nav
 
 nav a
   margin: .5em 1.2em
+  text-decoration: none  // Osigurava da linkovi nemaju podcrtavanje
+  color: inherit  // Nasljeđuje boju teksta iz roditeljskih elemenata
