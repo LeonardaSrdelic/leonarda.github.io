@@ -22,6 +22,7 @@ navigation:
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "Curriculum Vitae"}
   - {file: "Publications.md", title: "Publications"}
+  - {file: "Podcast.md", title: "Podcast"}
 
 
 
