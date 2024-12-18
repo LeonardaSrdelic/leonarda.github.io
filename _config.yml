@@ -21,10 +21,7 @@ navigation:
   - {file: "index.md", title: "Homepage", icon: home}
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "Curriculum Vitae"}
-  - title: "Publications"
-    submenu:
-      - {file: "Publications_by_theme.md", title: "By Theme"}
-      - {file: "Publications_chrono.md", title: "Chronologically"}
+  - {file: "Publications.md", title: "Publications"}
   - {file: "Podcast.md", title: "Podcast"}
 
 
