@@ -37,8 +37,73 @@ html, body {
   padding: 0; // Uklanja unutarnji prostor
 }
 
-
 // Ako postoji dodatno ograničavanje širine
 .page, .post, .entry-content {
   width: 100%; // Osigurava da ovi elementi također koriste punu širinu
+}
+
+/* Dropdown stilizacija */
+nav {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+
+  a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+
+    &:hover {
+      background-color: #f5f5f5;
+      color: #00a0dc;
+    }
+
+    &.selected {
+      font-weight: bold;
+      color: #00a0dc;
+    }
+  }
+
+  /* Dropdown container */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+
+    .dropdown-toggle {
+      cursor: pointer;
+      padding: 8px 12px;
+    }
+
+    /* Skriven sadržaj dropdowna */
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #ffffff;
+      border: 1px solid #ddd;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+      min-width: 150px;
+
+      a {
+        display: block;
+        padding: 8px 12px;
+        color: #333;
+        text-decoration: none;
+
+        &:hover {
+          background-color: #f5f5f5;
+          color: #00a0dc;
+        }
+      }
+    }
+
+    /* Prikazuje podizbornik pri hoveru */
+    &:hover .dropdown-content {
+      display: block;
+    }
+  }
 }
