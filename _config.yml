@@ -7,6 +7,10 @@ icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 
 # Layout
 
