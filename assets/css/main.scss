@@ -1,11 +1,12 @@
 ---
 ---
 
-@import "basic";
-@import "classes";
-@import "font";
-@import "index";
-@import "layout";
+// Ispravni putovi prema `_sass` direktoriju
+@import "../../_sass/basic";
+@import "../../_sass/classes";
+@import "../../_sass/font";
+@import "../../_sass/index";
+@import "../../_sass/layout";
 @import "frame";
 @import "sidebar";
 
