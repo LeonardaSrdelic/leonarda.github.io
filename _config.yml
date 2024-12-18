@@ -7,9 +7,6 @@ icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-sass:
-  sass_dir: _sass   # Direktorij sa SASS datotekama
-  style: compressed # Ili 'expanded' za čitljiv izlaz
 
 # Layout
 
