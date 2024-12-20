@@ -2,7 +2,7 @@ encoding: utf-8
 title: "Personal Webpage"
 author: "Leonarda Srdelić"
 permalink: /:title/
-lang: "en"
+languages: ["en", "hr"]
 icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
