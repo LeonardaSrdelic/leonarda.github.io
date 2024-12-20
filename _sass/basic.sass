@@ -22,6 +22,19 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
+body
+  background: $light
+  color: $dark
+  font-family: $font-family
+  font-weight: $font-weight
+  font-size: $font-size
+  line-height: $line-height
+  margin: 0
+  min-height: 100vh
+  -webkit-text-size-adjust: 100%
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
 @media (prefers-color-scheme: dark)
   body
     background: $dark
@@ -46,18 +59,18 @@ header a, footer a, aside a
   color: inherit
 
 header time
-  color: darken($light, 30%)
+  color: reduce(100)
 
 hr
-  border: 1px solid darken($light, 10%)
+  border: 1px solid reduce(30)
   margin: 2em 0
 
 article:not(:last-of-type)
-  border-bottom: 1px solid darken($light, 10%)
+  border-bottom: 1px solid reduce(14)
 
 blockquote
-  background: lighten($light, 5%)
-  border-left: 3px solid darken($light, 20%)
+  background: reduce(6)
+  border-left: 3px solid reduce(90)
   padding: 1px 1.5em
   opacity: .75
 
@@ -66,12 +79,14 @@ blockquote, figure
 
 img
   margin: .5em 0
-  border-radius: 2px
-  max-width: 100%
-  height: auto
 
 li
   margin: .25em 0
+
+img
+  border-radius: 2px
+  max-width: 100%
+  height: auto
 
 table
   display: inline-block
@@ -79,17 +94,17 @@ table
   overflow-y: scroll
   border-spacing: 1px
   border-radius: 2px
-  box-shadow: 0 0 0 1px darken($light, 12%) inset
+  box-shadow: 0 0 0 1px reduce(12) inset
 
 th, td
   padding: .5em 1em
-  box-shadow: 0 0 0 1px darken($light, 12%)
+  box-shadow: 0 0 0 1px reduce(12)
 
 tr:hover, tr:nth-child(odd) td
-  background: lighten($light, 2%)
+  background: reduce(4)
 
 pre
-  background: darken($light, 12%)
+  background: reduce(12)
   border-radius: 2px
   font-size: .8em
   margin: 1.5em 0
@@ -98,7 +113,7 @@ pre
 
 \:not(pre) > code
   font-size: .9em
-  background: darken($light, 15%)
+  background: reduce(15)
   opacity: .7
   border-radius: 2px
   margin: 0 .1em
