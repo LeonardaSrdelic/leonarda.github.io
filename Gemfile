@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Specify your Ruby version
-ruby '2.7.8'  # Adjust the version number as needed
+ruby '2.7.2'  # Adjust the version number as needed
 
 gem "jekyll", "~> 4.2.0"
 gem "webrick", "~> 1.7"
