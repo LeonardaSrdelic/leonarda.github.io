@@ -1,28 +1,40 @@
+// Postavljanje osnovnih stilova tijela
 body
   display: flex
   flex-direction: column
+  min-height: 100vh  // Osigurava da stranica zauzima cijelu visinu ekrana
+  width: 100%        // Osigurava da tijelo zauzima punu širinu ekrana
+  background: white  // Postavlja bijelu boju pozadine za cijelo tijelo
 
+// Stilovi za članke
 article
   flex-grow: 1
 
+// Stilovi za zaglavlje i podnožje
 body > header, body > footer
   display: flex
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
-
-body > header, body > article, body > footer
   padding: 1.5em
+  width: 100%  // Osigurava da zaglavlje i podnožje zauzimaju punu širinu
 
+// Stilovi za zaglavlje članka
 article header
   margin-bottom: 1.5em
 
+// Naslovi unutar zaglavlja članka
 article header h1
   font-size: 1.7em
   margin: 0 0 .1em
 
+// Navigacijski stilovi
 nav
   margin: .5em -1.2em
 
+// Stilovi za navigacijske linkove
 nav a
   margin: .5em 1.2em
+  text-decoration: none  // Uklanja podcrtavanje s linkova
+  color: inherit  // Nasljeđuje boju teksta iz roditeljskih elemenata
+
