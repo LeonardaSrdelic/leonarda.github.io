@@ -3,6 +3,11 @@ title: "Personal Webpage"
 author: "Leonarda Srdelić"
 permalink: /:title/
 languages: ["en", "hr"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  hr: Croatian
+  en: English
 icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
