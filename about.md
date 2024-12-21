@@ -4,7 +4,7 @@ title: pages.about
 
 namespace: about
 permalink: /about-us/
-permalink_hr: /ueber-uns/
+permalink_de: /ueber-uns/
 ---
 
 {% tf about.md %}
