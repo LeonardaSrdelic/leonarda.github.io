@@ -2,11 +2,11 @@ encoding: utf-8
 title: "Personal Webpage"
 author: "Leonarda Srdelić"
 permalink: /:title/
-languages: ["en", "hr"]
+languages: ["en", "de"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: en
 languageNames:
-  hr: Croatian
+  de: Deutsch
   en: English
 icon: fa-solid fa-house
 excerpt_separator: "\n\n\n"
